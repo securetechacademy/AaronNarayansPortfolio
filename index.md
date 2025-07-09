@@ -5,6 +5,6 @@ layout: default
 # Blog Posts
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+- Link Test: {{ site.baseurl }}{{ post.url }}
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
-
