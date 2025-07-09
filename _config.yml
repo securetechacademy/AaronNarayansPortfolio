@@ -1,3 +1,5 @@
 remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 title: "Aaron Narayan's Cybersecurity Blog"
 description: "Linux, Splunk, & SOC Lab"
