@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: zwbetz-gh/cayman-blog
+plugins:
+  - jekyll-remote-theme
 title: "Aaron Narayan's Cybersecurity Blog"
 description: "Linux, Splunk, & SOC Lab"
