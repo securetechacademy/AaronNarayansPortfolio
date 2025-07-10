@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog #1: Splunk Core User Project"
+title: "Blog #1: Splunk Core User Course Project"
 date: 2025-07-08 00:00:00 +0000
 ---
 
