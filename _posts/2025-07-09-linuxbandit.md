@@ -35,5 +35,5 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
 [**👉(Google Doc: Full Course Walkthrough)**](https://docs.google.com/document/d/1VO-bQ7xvvx1PMKZFzRhXsZFXji4TkCFQuKzLXsXNIhA/edit?usp=sharing)
 
 
-![Splunk Course Certificate]({{ site.baseurl }}/assets/images/LinuxCourseCertificate.png)
+![LPI Linux Essentials Course Certificate]({{ site.baseurl }}/assets/images/LinuxCourseCertificate.png)
 
