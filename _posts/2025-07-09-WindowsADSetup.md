@@ -20,7 +20,7 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
  - Link VMs to Domain Controller
 
 
-[**👉(Google Doc: Full Course Walkthrough)**](https://docs.google.com/document/d/1OFrS6Mo746bbScpqqT6mJ5ckOGWgLyBKyfnAvaHj2-I/edit?usp=sharing)
+[**👉(Google Doc: Windows AD Setup Screenshots)**](https://docs.google.com/document/d/1OFrS6Mo746bbScpqqT6mJ5ckOGWgLyBKyfnAvaHj2-I/edit?usp=sharing)
 
 
 ![ISACA CISM Certification]({{ site.baseurl }}/assets/images/cism.png)

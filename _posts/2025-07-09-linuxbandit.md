@@ -32,7 +32,7 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
  - Bandit 19 Using a setuid binary to open a file with another users permissions
  - Bandit 20 Setting up a listener and connecting to it with another job to send a command
 
-[**👉(Google Doc: Full Course Walkthrough)**](https://docs.google.com/document/d/1VO-bQ7xvvx1PMKZFzRhXsZFXji4TkCFQuKzLXsXNIhA/edit?usp=sharing)
+[**👉(Google Doc: Linux Bandit CTF Screenshots)**](https://docs.google.com/document/d/1VO-bQ7xvvx1PMKZFzRhXsZFXji4TkCFQuKzLXsXNIhA/edit?usp=sharing)
 
 
 ![LPI Linux Essentials Course Certificate]({{ site.baseurl }}/assets/images/LinuxCourseCertificate.png)

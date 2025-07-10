@@ -23,7 +23,7 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
  - Create VLAN2 (Attacker) Whitelist Firewall Rules
 
 
-[**👉(Google Doc: Full Course Walkthrough)**](https://docs.google.com/document/d/1P3K026O-tpM7v9BVANMcpnPpWbky4tYKO2hO8Zj7P2g/edit?usp=sharing)
+[**👉(Google Doc: Firewall Set Up Screenshots)**](https://docs.google.com/document/d/1P3K026O-tpM7v9BVANMcpnPpWbky4tYKO2hO8Zj7P2g/edit?usp=sharing)
 
 
 ![CompTIA Sec+ Certification]({{ site.baseurl }}/assets/images/Sec+Cert.png)
