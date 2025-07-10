@@ -26,5 +26,5 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
 [**👉(Google Doc: Threat Hunting Walkthrough)**](https://docs.google.com/document/d/1mGThS8IYOFOmBQmkndUu60GrGjCHqDKN0oy0XmU4bUw/edit?usp=sharing)
 
 
-![CySA+ Course Certification]({{ site.baseurl }}/assets/images/CySA+CourseCertificate.png)
+![CySA+ Course Certification]({{ site.baseurl }}/assets/images/CySACourseCertificate.png)
 
