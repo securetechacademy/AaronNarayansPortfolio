@@ -13,7 +13,7 @@ Welcome to my blog! My name is Aaron Narayan and this is where I share my cybers
  - Bandit 0 SSH & cat
  - Bandit 1 Cat ./ for file called - 
  - Bandit 2 Cat “spaces in a filename”
- - Bandit 3 Opening a hidden file with cat …Hidde
+ - Bandit 3 Opening a hidden file 
  - Bandit 4 Looking at file types
  - Bandit 5 Searching for a file by size
  - Bandit 6 Searching by user, group, and sending errors to /dev/null
