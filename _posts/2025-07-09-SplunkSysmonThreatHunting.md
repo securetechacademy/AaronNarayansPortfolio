@@ -6,7 +6,7 @@ date: 2025-07-09 00:05:00 +0000
 
 ![Splunk Search Example]({{ site.baseurl }}/assets/images/SplunkThreatHunting.png)
 
-Welcome to my blog! My name is Aaron Narayan and this is where I share my cybersecurity projects with Splunk, Linux, VirtualBox, SOC labs, and GRC Documentation & Auditing.  This post contains screenshots from a threat hunting exercise with Splunk and Sysmon Events. I installed the Splunk add for Sysmon, input a new index of data, and then searched for Indicators of Compromise. Below are the steps covered and a Google Doc containing screenshots. Thank you for visiting. In the next blog I will produce a SOC 2 Report. 
+Welcome to my blog! My name is Aaron Narayan and this is where I share my cybersecurity projects with Splunk, Linux, VirtualBox, SOC labs, and GRC Documentation & Auditing.  This post contains screenshots from a threat hunting exercise with Splunk and Sysmon Events. I installed the Splunk add for Sysmon, input a new index of data, and then searched for Indicators of Compromise. Below are the steps covered and a Google Doc containing screenshots. Thank you for visiting. In the next blog post I will produce a SOC 2 Report. 
 
 ### Covered Modules
 
