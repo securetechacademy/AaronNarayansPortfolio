@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Aaron's Cybersecurity Blog #2: Linux CTF Exercises With Bandit"
+title: "Blog #2: Linux CTF Exercises With Bandit"
 date: 2025-07-09 00:00:00 +0000
 ---
 
