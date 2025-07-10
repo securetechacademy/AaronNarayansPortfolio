@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog #4: Windows AD Setup with Users and Groups"
-date: 2025-07-09 00:00:00 +0000
+date: 2025-07-09 00:04:00 +0000
 ---
 
 ![Splunk Search Example]({{ site.baseurl }}/assets/images/WindowsAD.png)

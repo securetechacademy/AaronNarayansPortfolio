@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog #2: Linux CTF Exercises With Bandit"
-date: 2025-07-09 00:00:00 +0000
+date: 2025-07-09 00:01:00 +0000
 ---
 
 ![Splunk Search Example]({{ site.baseurl }}/assets/images/Bandit.png)

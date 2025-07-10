@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog #5: Threat Hunting with Splunk & Sysmon Event Logs"
-date: 2025-07-09 00:00:00 +0000
+date: 2025-07-09 00:05:00 +0000
 ---
 
 ![Splunk Search Example]({{ site.baseurl }}/assets/images/SplunkThreatHunting.png)
