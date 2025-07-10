@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog #3: Firewall and Gateway Setup with pfSense"
-date: 2025-07-08 00:02:00 +0000
+date: 2025-07-09 00:02:00 +0000
 ---
 
 ![Splunk Search Example]({{ site.baseurl }}/assets/images/pfsense.png)
