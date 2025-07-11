@@ -9,7 +9,6 @@ date: 2025-07-1 00:04:00 +0000
 ---
 
 
-
 !\[Splunk Search Example]({{ site.baseurl }}/assets/images/FutureCon2025.png)
 
 I had the great pleasure of attending the Anaheim FutureCon Cybersecurity Conference yesterday and I want to talk about the messages given from Ron Pelletier, Founder of Pondurance, and John Minasyan, COO of LMNTRIX, because they both echoed a theme that carried on through the rest of the event. I made sure to visit each company’s booth in an attempt to gain insight into the current trajectory and there was one constant that always needed to be addressed: the increasing power of threat actors due to AI.
