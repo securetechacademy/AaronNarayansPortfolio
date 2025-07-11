@@ -1,13 +1,8 @@
 ---
-
 layout: default
-
 title: "Blog #6: FutureCon 2025: AI \& Increasing Power of Threat Actors"
-
 date: 2025-07-1 00:04:00 +0000
-
 ---
-
 
 !\[Splunk Search Example]({{ site.baseurl }}/assets/images/FutureCon2025.png)
 
@@ -26,7 +21,6 @@ As the line between our digital and physical world becomes increasingly thin, I 
 Thank you to all of the Sponsors and FutureCon for your tireless efforts to protect our infrastructure and privacy. Despite the real danger that we all face, I walked away feeling inspired, motivated, and excited for the future.
 
 -Aaron
-
 
 
 !\[ISACA CISM Certification]({{ site.baseurl }}/assets/images/cism.png)
