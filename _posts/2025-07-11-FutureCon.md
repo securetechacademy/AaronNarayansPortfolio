@@ -22,7 +22,6 @@ Thank you to all of the Sponsors and FutureCon for your tireless efforts to prot
 
 -Aaron
 
-
 ![ISACA CISM Certification]({{ site.baseurl }}/assets/images/cism.png)
 
 
