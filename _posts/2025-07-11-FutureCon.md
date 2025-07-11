@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blog #6: FutureCon 2025 - AI and the Increasing Power of Threat Actors"
-date: 2025-07-1 00:04:00 +0000
+date: 2025-07-11 00:04:00 +0000
 ---
 
 !\[Splunk Search Example]({{ site.baseurl }}/assets/images/FutureCon2025.png)
